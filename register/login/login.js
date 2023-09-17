@@ -14,3 +14,6 @@ document.getElementById('login').addEventListener('click', function(){
 });
 
 //kurov da mi go jadite site
+//KUROV MOJ NAJUBAV 
+
+//JAS SUM GOLEMA PICKA

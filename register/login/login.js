@@ -9,6 +9,8 @@ document.getElementById('login').addEventListener('click', function(){
         alert('Login successful!');
         window.location.href = ''
     } else {
-        alert('Login failed, please try again!!!');
+        alert('Login failed, please try again!!!'); //na majka ti v picka
     }
 });
+
+//kurov da mi go jadite site

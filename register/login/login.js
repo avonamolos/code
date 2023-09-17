@@ -7,13 +7,8 @@ document.getElementById('login').addEventListener('click', function(){
 
     if (enteredUsername === storedUsername && enteredPassword === storedPassword) {
         alert('Login successful!');
-        window.location.href = ''
+        window.location.href = 'calendar.html'
     } else {
-        alert('Login failed, please try again!!!'); //na majka ti v picka
+        alert('Login failed, please try again!!!'); 
     }
 });
-
-//kurov da mi go jadite site
-//KUROV MOJ NAJUBAV 
-
-//JAS SUM GOLEMA PICKA

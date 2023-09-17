@@ -7,7 +7,7 @@ document.getElementById('login').addEventListener('click', function(){
 
     if (enteredUsername === storedUsername && enteredPassword === storedPassword) {
         alert('Login successful!');
-        window.location.href = 'calendar.html'
+        window.location.href = 'calendar/calendar.html'
     } else {
         alert('Login failed, please try again!!!'); 
     }
